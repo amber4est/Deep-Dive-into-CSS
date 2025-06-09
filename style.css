@@ -26,6 +26,8 @@ body{
     font-weight: 400;
     font-size: medium;
     text-align: center;
+    position: sticky;
+    bottom: 0;
 }
 
 .intro{
